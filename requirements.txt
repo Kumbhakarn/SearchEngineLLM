@@ -1,0 +1,36 @@
+arxiv                   # API for accessing research papers from arXiv
+bs4                     # Beautiful Soup, used for web scraping and parsing HTML/XML
+chroma-migrate          # Tools for migrating Chroma database versions
+chromadb                # Vector database for managing embeddings and similarity search
+duckduckgo-search       # Library for querying DuckDuckGo search engine
+faiss-cpu               # Library for efficient similarity search and clustering of embeddings
+fastapi                 # Web framework for building APIs with Python
+gradio                  # For Frunt End of application
+huggingface_hub         # API and tools for accessing models and datasets on Hugging Face
+langchain               # Framework for building applications powered by large language models (LLMs)
+langchain-core          # Core functionality for LangChain framework
+langchain-chroma        # Chroma integration for LangChain applications
+langchain-community     # Community-contributed tools and modules for LangChain
+langchain-huggingface   # Hugging Face model integrations within LangChain
+langchain-openai        # OpenAI-specific integrations within LangChain
+langchain-ollama        # Integration for Ollama LLMs in LangChain
+langchain-text-splitters # Tools for splitting text into smaller chunks for processing
+langchain_groq          # Integration for Groq hardware in LangChain
+langserve               # LangChain's server deployment and management tools
+numexpr                 # Fast numerical array expression evaluator
+pandas                  # Data manipulation and analysis library
+pymupdf                 # High-performance PDF and XPS parsing library
+pymysql                 # MySQL client library for Python
+python-dotenv           # Loads environment variables from a .env file
+pypdf                   # Library for reading and manipulating PDF files
+pytube                  # Download YouTube videos and metadata
+sentence_transformers   # Pre-trained models for embedding generation and semantic similarity tasks
+sse_starlette           # Server-Sent Events integration for Starlette/FastAPI
+SQLAlchemy              # ORM for managing relational databases in Python
+streamlit               # Framework for building interactive web applications for data and ML
+tensorflow              # Machine learning framework for training and deploying models
+tqdm                    # Progress bar utility for tracking loops and processes
+unstructured            # Library for processing and structuring unstructured data
+validators              # External library to validate URLs and email addresses
+wikipedia               # Interface to query data from Wikipedia
+youtube_transcript_api  # Retrieve transcripts from YouTube videos
