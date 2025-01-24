@@ -42,8 +42,8 @@ This project is a search engine that leverages a Large Language Model (LLM) to p
 ## Technologies Used
 
 - **Backend**: Flask
-- **Frontend**: HTML, CSS, JavaScript
-- **LLM API**: OpenAI/Custom API
+- **Frontend**: streamlit 
+- **LLM API**: Groq
 - **Data Sources**: Configurable
 
 ## Contributing
